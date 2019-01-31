@@ -1,6 +1,6 @@
 {
   "name": "nba",
-  "version": "1.0.0",
+  "version": "3.10.8",
   "description": "for google home assistant",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,10 @@
     "mongoose",
     "demo"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "tanu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git-repo"
+  }
 }
