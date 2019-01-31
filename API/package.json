@@ -1,9 +1,11 @@
-{ "name": "nba",
-  "version": "3.10.8",
+{
+  "name": "nba",
+  "version": "6.5.0",
   "description": "for google home assistant",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1","start" :"node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [
     "node",
